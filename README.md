@@ -42,6 +42,15 @@ Syntax highlighted code block
 
 For<sup>1</sup> more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).<sub>[1]<sub>
 
-> it's quoted from other place marked with '\>'
+> it's quoted from other place marked with '\>' [^note1]
 
 `git status` 
+
+[^note1]: Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
+
+## Task List 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
