@@ -1,7 +1,7 @@
 牛逼的人都有破局思维
 互联网思维 2022-07-30 11:30 Posted on 江西
 The following article is from 自言稚语 Author Windy Liu
-
+摘自：https://mp.weixin.qq.com/s/43b0lYDCuKC-DLsL9A_z_g
 
 Image
 作者：Windy Liu
