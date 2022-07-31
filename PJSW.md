@@ -60,7 +60,7 @@ Image
 
 不过，尽管思维有其复杂性，但是当我们的大脑在思考和决策的时候，还是有其不同的逻辑层次，从上到下依次如下图所示：
 
-![](/images/jiazhiguan.jfif)
+![](./images/jiazhiguan.jfif)
 
 ## 1、价值观层面
 
