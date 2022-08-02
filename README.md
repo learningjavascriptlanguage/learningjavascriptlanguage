@@ -37,6 +37,7 @@ Syntax highlighted code block
 | 005 | [系统设计基础理论](https://juejin.cn/post/7123467396009951240#heading-5) | 摘自掘金 |
 | 006 | [系统设计系列讲解 - 基本套路](https://1o24bbs.com/t/topic/26890/7) | 摘自bbs |
 | 007 | [从 VSCode 看大型 IDE 技术架构](https://zhuanlan.zhihu.com/p/96041706) | 摘自知乎 |
+| 008 | [0基础 Linux命令学习教程](https://www.jianshu.com/p/88ea2c7cc270) | 摘自简书 |
 
 
 
