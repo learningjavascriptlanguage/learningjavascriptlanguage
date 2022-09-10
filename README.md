@@ -58,3 +58,4 @@ For<sup>1</sup> more details see [Basic writing and formatting syntax](https://d
 
 # 其他学习资源
 - [2022 AMC10/12打卡 MathMaster Club](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzUyODU2OQ==&action=getalbum&album_id=2434131846700859393&from_msgid=2247505885&from_itemidx=2&nolastread=1#wechat_redirect)
+- [浙江大学数据结构 陈越](https://www.bilibili.com/video/BV1H4411N7oD/)
