@@ -39,6 +39,7 @@ Syntax highlighted code block
 | 007 | [从 VSCode 看大型 IDE 技术架构](https://zhuanlan.zhihu.com/p/96041706) | 摘自知乎 |
 | 008 | [0基础 Linux命令学习教程](https://www.jianshu.com/p/88ea2c7cc270) | 摘自简书 |
 | 009 | [Start your React here](https://www.w3schools.com/react/default.asp) | From w3schools
+| 010 | [Azure pipeline definition](https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/pipeline?view=azure-pipelines) | From Microsoft
 
 
 
