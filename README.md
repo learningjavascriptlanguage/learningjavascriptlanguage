@@ -40,6 +40,7 @@ Syntax highlighted code block
 | 008 | [0基础 Linux命令学习教程](https://www.jianshu.com/p/88ea2c7cc270) | 摘自简书 |
 | 009 | [Start your React here](https://www.w3schools.com/react/default.asp) | From w3schools
 | 010 | [Azure pipeline definition](https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/pipeline?view=azure-pipelines) | From Microsoft
+| 011 | [“一晃 20 年，原来我所做的一切都是技术债务，你也一样……”](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650974662&idx=1&sn=1ca89105b8a8cb7766f85deab3379099&chksm=bd5ad8158a2d51033946919c073e1d02dd617dfce4cdd9a5dedecabaf9148eb86dec0728d841&scene=21#wechat_redirect) | From CSDN
 
 
 
